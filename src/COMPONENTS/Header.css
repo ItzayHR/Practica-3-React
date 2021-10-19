@@ -1,0 +1,15 @@
+.Header
+{
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F7E000;
+}
+
+.Header .img
+{
+    width: auto;
+    height: 55%;
+}
