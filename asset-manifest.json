@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Practica-3-React/static/css/main.8fd6e38e.chunk.css",
+    "main.js": "/Practica-3-React/static/js/main.b842bb24.chunk.js",
+    "main.js.map": "/Practica-3-React/static/js/main.b842bb24.chunk.js.map",
+    "runtime-main.js": "/Practica-3-React/static/js/runtime-main.ee785690.js",
+    "runtime-main.js.map": "/Practica-3-React/static/js/runtime-main.ee785690.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Practica-3-React/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.936d37d7.chunk.js": "/Practica-3-React/static/js/2.936d37d7.chunk.js",
+    "static/js/2.936d37d7.chunk.js.map": "/Practica-3-React/static/js/2.936d37d7.chunk.js.map",
+    "index.html": "/Practica-3-React/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Practica-3-React/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.8fd6e38e.chunk.css.map": "/Practica-3-React/static/css/main.8fd6e38e.chunk.css.map",
+    "static/js/2.936d37d7.chunk.js.LICENSE.txt": "/Practica-3-React/static/js/2.936d37d7.chunk.js.LICENSE.txt",
+    "static/media/MercadoLibre.59baf6ff.png": "/Practica-3-React/static/media/MercadoLibre.59baf6ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee785690.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.936d37d7.chunk.js",
+    "static/css/main.8fd6e38e.chunk.css",
+    "static/js/main.b842bb24.chunk.js"
+  ]
+}
